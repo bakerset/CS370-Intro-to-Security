@@ -1,1 +1,0 @@
-SHA2-256(3.7plain.txt)= aa2f7b095a4e2fb3918fa20b2221544d61632aba9fd9e8afa353eaaefde776db

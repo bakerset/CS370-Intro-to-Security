@@ -1,16 +1,0 @@
-[10 pts] Observation Task: CBC Encryption using different IVs
-IVs or initialization vectors act as a random seed to the block cipher modes of encryption
-like CBC. In this task you will understand the role of IVs.
-•	Step 1: Create any file with one line of text and name it plain.txt, the content of the file does not matter.
-•	Step 2: Now, using the command in the Q3.1, encrypt the file using aes-128-cbc scheme and write the output to the file ‘encrypt1.bin’. You are free to choose the Key and IV in this step but note them down.
-•	Step 3: Now using the same Key and IV in the step 2, encrypt the file again and write the output to ‘encrypt2.bin’.
-•	Step 4: Now using the same Key in Step 2 and a different IV, encrypt the file again and write your output to ‘encrypt3.bin’.
-
-What to include in your submission for 3.2:
-Now based on your observations of the above steps and the 3 different files that you generated, answer the following questions:
-•	Do the contents of ‘encrypt1.bin’ match the contents of ‘encrypt2.bin’? Explain why or why not.
-    - encrypt1: ��_iey3"1F�¸s�cǔzrۉ�|_�a7u
-    - encrypt2: ��_iey3"1F�¸s�cǔzrۉ�|_�a7u
-•	Do the contents of ‘encrypt1.bin’ match the contents of ‘encrypt3.bin’? Explain why or why not.
-    - encrypt1: ��_iey3"1F�¸s�cǔzrۉ�|_�a7u
-    - encrypt3: cAq!���+��ׯ��}��Ig��l
