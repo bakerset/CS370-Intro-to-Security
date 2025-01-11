@@ -1,0 +1,16 @@
+[10pts] Observation Task: Encryption Mode – ECB vs. CBC
+Obtain a simple picture in .bmp format. Encrypt this picture, so people without the encryption keys cannot know what is in the picture. Please encrypt the file using the ECB (Electronic Code Book) and CBC (Cipher Block Chaining) modes, and then do the following:
+
+1.	Let us treat the encrypted picture as a picture, and use a picture viewing software to display it. However, for the .bmp file, the first 54 bytes contain the header information about the picture, you have to set it correctly, so the encrypted file can be treated as a legitimate .bmp file. Replace the header of the encrypted picture with that of the original picture. You can use a hex editor tool (e.g. ghex or Bless) to directly modify binary files.
+
+2.	Display the encrypted picture using any picture viewing software. Can you derive any useful information about the original picture from the encrypted picture? Record both encrypted pictures and the original picture for your report.
+
+What to include in your submission for 3.2:
+•	Include the original picture
+    -look at penguin.bmp files
+
+•	Include the encrypted pictures with CBC mode
+    -look at penguin.bmp files
+
+•	Include the encrypted pictures with ECB mode
+    -look at penguin.bmp files
