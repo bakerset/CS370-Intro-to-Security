@@ -1,0 +1,3 @@
+SHA1(3.5plain.txt)= 32d55e05693880f4e2dbb05a4a77be463a065bcc
+SHA2-256(3.5plain.txt)= bce1ded879965b254cc54e263f3a3c5512ed4133a1a0f88087ab598666db0b50
+MD5(3.5plain.txt)= e0bebb7fb42210120e1f9e6fc956bdee
